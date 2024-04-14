@@ -15,7 +15,7 @@ Created a single page, Infinite scroll implementation based on paginated JSON fe
 * By clicking thums up button it will increase the count which is set to be zero intially.
 
 ## Screenshot
-![Example Image](src/example.png)
+![Example Image](src/Gallery.png)
 
 
 # Getting Started with Create React App
