@@ -14,6 +14,8 @@ Created a single page, Infinite scroll implementation based on paginated JSON fe
 * The loaded data will have the image, author name and the thumbs up button.
 * By clicking thums up button it will increase the count which is set to be zero intially.
 
+## Screenshot
+![Example Image](src/example.png)
 
 
 # Getting Started with Create React App
