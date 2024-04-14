@@ -16,9 +16,6 @@ To use the Scroll Detection React Component in your project, follow these steps:
 
 1. Install React and ReactDOM if you haven't already:
 
-```bash
-npm install react react-dom
-
 
 # Getting Started with Create React App
 
