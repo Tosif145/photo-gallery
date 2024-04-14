@@ -10,11 +10,10 @@ Created a single page, Infinite scroll implementation based on paginated JSON fe
 * Then result for the next page using (https://picsum.photos/v2/list?page=2) this link will be added to the list.
 * And this process repeats until no data exist at the end.
 
-## Usage
+## Extra Features
+* The loaded data will have the image, author name and the thumbs up button.
+* By clicking thums up button it will increase the count which is set to be zero intially.
 
-To use the Scroll Detection React Component in your project, follow these steps:
-
-1. Install React and ReactDOM if you haven't already:
 
 
 # Getting Started with Create React App
