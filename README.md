@@ -3,11 +3,11 @@
 Created a single page, Infinite scroll implementation based on paginated JSON feeds
 
 ## How it Works
-* Intially the page will load data from the [](https://picsum.photos/v2/list?page=1) and add it to the list.
+* Intially the page will load data from the (https://picsum.photos/v2/list?page=1) and add it to the list.
 * The Scroll Detection React Component utilizes the `useEffect` hook provided by React to add a scroll event listener to the window. 
 * When the user scrolls, the component calculates the current scroll position, the height of the viewport, and the total height of the document.
 * If the sum of the scroll position and the viewport height equals the total document height, it indicates that the user has scrolled to the bottom of the page.
-* Then result for the next page using [](https://picsum.photos/v2/list?page=2) this link will be added to the list.
+* Then result for the next page using (https://picsum.photos/v2/list?page=2) this link will be added to the list.
 * And this process repeats until no data exist at the end.
 
 ## Usage
